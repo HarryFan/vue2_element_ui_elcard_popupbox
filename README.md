@@ -1,2 +1,24 @@
-# vue2_element_ui_elcard_popupbox
-教學用＿vue2 element ui popupbox with table
+# vue2_element_ui_card_popupbox_table
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
