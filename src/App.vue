@@ -2,18 +2,17 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
     <MainTable />
-    <ElCardPopUpBox />
+
   </div>
 </template>
 
 <script>
-import ElCardPopUpBox from './components/ElCardPopUpBox.vue';
+
 import MainTable from './components/MainTable.vue';
 export default {
   name: 'App',
   components: {
-    MainTable,
-    ElCardPopUpBox
+    MainTable
   }
 }
 </script>
